@@ -39,30 +39,14 @@ Build your own personal website starting from ideation, then go through a simple
 
 --------------------------------------------------------------------------------
 
-## Level 2: Week 1 Day 2
+		WEBSITE PRIBADI TENTANG SAYA
+		
+		SIAPA NAMA LENGKAP SAYA
 
-- Style the pages with CSS
-- Add some colors and backgrounds
-- Change the text fonts
+		NICKNAME SAYA
 
---------------------------------------------------------------------------------
+		HOBI SAYA
 
-## Level 3: Week 1 Day 2
+		KARAKTER FAVORIT SAYA
 
-- Create a blog post template with plain HTML
-- Duplicate that template to be used for various blog posts
-- Link those posts to your homepage
 
---------------------------------------------------------------------------------
-
-## Level 4: Week 1 Day 3
-
-- Make your pages responsive based on width viewport
-
---------------------------------------------------------------------------------
-
-## Level 5: Week 1 Day 4
-
-- Create some essential features and interactivities
-- Build a contact form on about or contact page
-- Build a gallery page
