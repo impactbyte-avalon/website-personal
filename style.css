@@ -1,0 +1,125 @@
+body {
+  background-color: #FFF;
+  margin: 0;
+  padding: 0;
+}
+
+#cover {
+  height: 100px;
+  position: fixed;
+  width: 100%;
+}
+
+h1 {
+  color: #757575;
+  font-family: 'Raleway', cursive;
+  text-align: center;
+}
+
+h2 {
+  color: #757575;
+  font-family: 'Raleway', cursive;
+  text-align: center;
+}
+
+h3 {
+    color: #757575;
+    font-family: 'Raleway', cursive;
+    text-align: center;
+    line-height: 20px
+    width: 120px;
+
+}
+
+h3 {
+    color: #757575;
+    font-family: 'Raleway', cursive;
+    text-align: center;
+    line-height: 20px
+}
+
+h4 {
+    color: #757575;
+    font-family: 'Raleway', cursive;
+    text-align: center;
+    line-height: 20px
+}
+h5 {
+        margin: 25px 0px;
+        padding-top: 25px;
+        text-align: center;
+          font-family: 'Raleway', sans-serif;
+
+  }
+
+p {
+   line-height:1.5;
+}
+
+.social {
+	position: center;
+    width: 120px;
+  }
+
+.social {
+  padding: 10px 0;
+  margin: 0 auto;
+  position: center;
+  word-spacing: 10px;
+}
+.social i {
+  border: 1px solid hsla(0, 0%, 0%, 0);
+  padding: 5px;
+}
+
+.social h4 > a {
+  color: #000000;
+}
+.social .fa-envelope {
+  color: #95a5a6;
+}
+.social .fa-search {
+  color: #4285f4;
+}
+.social .fa-google-plus {
+  color: #dc4e41;
+}
+.social .fa-linkedin {
+  color: #0077b5;
+}
+.social .fa-facebook {
+  color: #3b5998;
+}
+.social .fa-twitter {
+  color: #55acee;
+}
+.social .fa-github-alt {
+  color: #333333;
+}
+.social .fa-stack-overflow {
+  color: #fe7a15;
+}
+.social .fa-key {
+  color: #FF7100;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background-color: #000;
+  padding-bottom: 100px;
+  padding-top: 10px;
+  color: #fff;
+}
+
+.img-circle {
+	width: 100%;
+    height: 150px;
+    width: 150px;
+    vertical-align: middle;
+    border-radius: 100%;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 5px;
+    border-radius: 50%;
+}
