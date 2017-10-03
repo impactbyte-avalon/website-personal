@@ -1,0 +1,57 @@
+header{
+  text-align: center;
+  background: #1abc9c;
+}
+
+body{
+  background: #eee;
+	margin:0;
+	font-family: 'Open Sans', sans-serif;
+}
+
+nav.menu ul {
+  text-align: center;
+	overflow:hidden;
+	color:#fff;
+	float:left;
+	padding:0;
+	width: 100%;
+	margin:0 auto ;
+	background: #1abc9c;
+}
+
+nav.menu ul li {
+	margin:0;
+	float:left;
+}
+
+nav.menu ul a {
+	padding:25px;
+	display:block;
+	font-weight:600;
+	font-size: 16px;
+	color:#fff;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+	text-decoration: none;
+}
+.profile{
+  font-size: 20px;
+  text-align: center;
+}
+
+.profile img{
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+}
+
+.AboutMe{
+  text-align: center;
+  background: #1abc9c;
+}
+
+.footer{
+  text-align: center;
+  background: #1abc9c;
+}
