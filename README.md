@@ -1,6 +1,4 @@
-# Website: Personal Saya
-## Adrian Pradana
-
+# My Personal Website
 --------------------------------------------------------------------------------
 
 
