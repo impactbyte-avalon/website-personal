@@ -1,4 +1,28 @@
 
+
+
+h1 { padding: 5px;
+    background-color: white;
+    text-align: center;
+
+}
+
+div{
+    word-wrap: break-word;
+    padding: 1px;
+    background-color: lightgreen;
+    text-align: center;
+
+  }
+  li {
+      display: inline;
+      padding: 5px;
+      background-color: blue;
+      color: white;
+  }
+
+
+
 body{ background-color: orange;
       color: blue + green;
       font: tahoma;
@@ -6,10 +30,10 @@ body{ background-color: orange;
           }
 
 footer{ align-content: center;
-  padding: 2em ;
-  background-color: blue;
-  color: red;
-  font-size:32px;
+  padding: 2px ;
+  background-color: lightblue;
+  color: black;
+  font-size:16px;
 
 
 }
